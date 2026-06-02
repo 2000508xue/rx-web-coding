@@ -8,7 +8,7 @@ export default defineConfig({
   description: 'Front-end coding engineering specifications',
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   cleanUrls: true,
-  base: '/rx/',
+  base: '/rx-web-coding/',
   appearance: 'dark',
   themeConfig: {
     logo: '/images/logo.png',
