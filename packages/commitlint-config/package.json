@@ -1,0 +1,23 @@
+{
+  "name": "rx-web-coding-commitlint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Git规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "renxue",
+  "homepage": "https://github.com/encode-studio-fe-web/fe-spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encode-studio-fe-web/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/encode-studio-fe-web/fe-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.6.3"
+  }
+}

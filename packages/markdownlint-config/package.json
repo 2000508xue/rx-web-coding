@@ -1,0 +1,19 @@
+{
+  "name": "rx-web-coding-markdownlint-config",
+  "version": "1.0.0",
+  "description": "markdown文档规范",
+  "author": "renxue",
+  "license": "ISC",
+  "homepage": "https://github.com/encode-studio-fe-web/fe-spec#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encode-studio-fe-web/fe-spec.git"
+  },
+  "main": "index.json",
+  "scripts": {
+    "test": "node ./__tests__/markdownlint-config.test.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  }
+}
