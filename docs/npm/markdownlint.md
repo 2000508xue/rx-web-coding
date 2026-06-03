@@ -1,18 +1,18 @@
 ---
-title: markdownlint-config-encode
+title: rx-web-coding-markdownlint-config
 categories:
   - 工程规范
 tags:
   - 工程规范
 author:
   name: 任学
-  link: https://github.com/encode-studio-fe-web/fe-spec
+  link: https://2000508xue.github.io/rx-web-coding/
 ---
 
-# markdownlint-config-encode
+# rx-web-coding-markdownlint-config
 
 :::tip
-印客学院 文档 规范
+文档 规范
 :::
 
 支持配套的 [markdownlint 可共享配置](https://www.npmjs.com/package/markdownlint#optionsconfig)。
@@ -28,7 +28,7 @@ npm install -g markdownlint-cli
 再安装 [markdownlint](https://www.npmjs.com/package/markdownlint)：
 
 ```bash
-npm install markdownlint-config-encode markdownlint --save-dev
+npm install rx-web-coding-markdownlint-config markdownlint --save-dev
 ```
 
 ## 使用
@@ -37,6 +37,6 @@ npm install markdownlint-config-encode markdownlint --save-dev
 
 ```json
 {
-  "extends": "markdownlint-config-encode"
+  "extends": "rx-web-coding-markdownlint-config"
 }
 ```

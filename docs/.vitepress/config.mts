@@ -58,11 +58,11 @@ export default defineConfig({
       {
         text: 'NPM包',
         items: [
-          { text: 'eslint-config-encode', link: '/npm/eslint.md' },
-          { text: 'stylelint-config-encode', link: '/npm/stylelint.md' },
-          { text: 'commitlint-config-encode', link: '/npm/commitlint.md' },
-          { text: 'markdownlint-config-encode', link: '/npm/markdownlint.md' },
-          { text: 'eslint-plugin-encode', link: '/npm/eslint-plugin.md' },
+          { text: 'rx-web-coding-eslint-config', link: '/npm/eslint.md' },
+          { text: 'rx-web-coding-stylelint-config', link: '/npm/stylelint.md' },
+          { text: 'rx-web-coding-commitlint-config', link: '/npm/commitlint.md' },
+          { text: 'rx-web-coding-markdownlint-config', link: '/npm/markdownlint.md' },
+          { text: 'rx-web-coding-eslint-plugin', link: '/npm/eslint-plugin.md' },
         ],
       },
       {
@@ -120,11 +120,11 @@ export default defineConfig({
         text: 'NPM包',
         collapsed: true,
         items: [
-          { text: 'eslint-config-encode', link: '/npm/eslint.md' },
-          { text: 'stylelint-config-encode', link: '/npm/stylelint.md' },
-          { text: 'commitlint-config-encode', link: '/npm/commitlint.md' },
-          { text: 'markdownlint-config-encode', link: '/npm/markdownlint.md' },
-          { text: 'eslint-plugin-encode', link: '/npm/eslint-plugin.md' },
+          { text: 'rx-web-coding-eslint-config', link: '/npm/eslint.md' },
+          { text: 'rx-web-coding-stylelint-config', link: '/npm/stylelint.md' },
+          { text: 'rx-web-coding-commitlint-config', link: '/npm/commitlint.md' },
+          { text: 'rx-web-coding-markdownlint-config', link: '/npm/markdownlint.md' },
+          { text: 'rx-web-coding-eslint-plugin', link: '/npm/eslint-plugin.md' },
         ],
       },
       {

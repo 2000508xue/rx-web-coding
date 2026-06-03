@@ -1,18 +1,18 @@
 ---
-title: commitlint-config-encode
+title: rx-web-coding-commitlint-config
 categories:
   - 工程规范
 tags:
   - 工程规范
 author:
   name: 任学
-  link: https://github.com/encode-studio-fe-web/fe-spec
+  link: https://2000508xue.github.io/rx-web-coding/
 ---
 
-# commitlint-config-encode
+#rx-web-coding-commitlint-config
 
 :::tip
-印客学院 Git 规范
+Git 规范
 :::
 
 支持配套的 [commitlint 配置](https://commitlint.js.org/#/concepts-shareable-config)，用于对 `git commit message` 进行校验。
@@ -22,7 +22,7 @@ author:
 使用时，需要安装 [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)：
 
 ```bash
-npm install commitlint-config-encode @commitlint/cli --save-dev
+npm install rx-web-coding-commitlint-config @commitlint/cli --save-dev
 ```
 
 ## 使用

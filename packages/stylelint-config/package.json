@@ -1,0 +1,32 @@
+{
+  "name": "rx-web-coding-stylelint-config",
+  "version": "1.0.0",
+  "description": "css 规范",
+  "homepage": "https://github.com/2000508xue/rx-web-coding#readme",
+  "bugs": {
+    "url": "https://github.com/2000508xue/rx-web-coding/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2000508xue/rx-web-coding.git"
+  },
+  "license": "ISC",
+  "author": "renxue",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "jest": "^30.4.2",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  }
+}

@@ -6,7 +6,7 @@ tags:
   - 编码规范
 author:
   name: 任桑
-  link: https://github.com/encode-studio-fe-web/fe-spec
+  link: https://2000508xue.github.io/rx-web-coding/
 ---
 
 # TypeScript 编码规范

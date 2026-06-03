@@ -8,14 +8,14 @@
     "lint"
   ],
   "author": "renxue",
-  "homepage": "https://github.com/encode-studio-fe-web/fe-spec#readme",
+  "homepage": "https://2000508xue.github.io/rx-web-coding/#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe-web/fe-spec.git"
+    "url": "git+https://2000508xue.github.io/rx-web-coding/.git"
   },
   "bugs": {
-    "url": "https://github.com/encode-studio-fe-web/fe-spec/issues"
+    "url": "https://2000508xue.github.io/rx-web-coding//issues"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.6.3"

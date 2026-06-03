@@ -6,13 +6,13 @@ tags:
   - 工程规范
 author:
   name: 任学
-  link: https://github.com/encode-studio-fe-web/fe-spec
+  link: https://2000508xue.github.io/rx-web-coding/
 ---
 
 # stylelint-config-encode
 
 :::tip
-印客学院 CSS 规范
+CSS 规范
 :::
 
 支持配套的 [stylelint 可共享配置](https://stylelint.io/user-guide/configure)。
